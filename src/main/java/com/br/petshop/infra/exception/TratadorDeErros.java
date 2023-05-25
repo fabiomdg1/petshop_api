@@ -1,4 +1,4 @@
-package com.br.petshop.infra;
+package com.br.petshop.infra.exception;
 
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.http.ResponseEntity;
